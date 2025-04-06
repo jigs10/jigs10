@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**jigs10/jigs10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jignesh, a web developer who enjoys building clean, functional, and user-friendly web apps.  
+Mostly working with **React**, **Next.js**, and **Node.js**.
 
-Here are some ideas to get you started:
+- 🔭 Currently working on: personal projects  
+- 🌱 Learning: backend concepts, performance optimization & seo 
+- 🛠 Tech I like: React, Next.js, Node.js, Tailwind, PGsql, supabase 
+- 💬 Ask me about: anything web dev or anime-related  
+- 📫 How to reach me: https://www.jigsdev.xyz/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+If you like what I do, consider buying me a coffee ☕🙂
+
+<a href="https://www.buymeacoffee.com/debugsenpai" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
